@@ -43,14 +43,14 @@ This project uses the following technologies:
 2. Navigate to the project directory:
 
 Set up the database:
+```bash
 cd omnifood
-Import the dbbansachma.sql file into your MySQL database.
-Update the database connection settings in connection.php.
-Start a local server:
 
-If you are using XAMPP, place the project folder in the htdocs directory and start Apache and MySQL from the XAMPP control panel.
+3. Start a local server:
+
+You can use a simple HTTP server to serve the files. For example, using Python's built-in HTTP server:
 Usage
-Open your web browser and navigate to http://localhost/omnifood.
+Open your web browser and navigate to http://localhost:8000 (or the port number provided by the server).
 Browse the available meals and add them to your cart.
 Proceed to checkout and place your order.
 Contributing
