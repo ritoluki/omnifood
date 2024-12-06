@@ -18,8 +18,6 @@ This project uses the following technologies:
 - HTML5
 - CSS3
 - JavaScript
-- PHP
-- MySQL
 - Google Fonts
 - Ionicons
 - Smoothscroll Polyfill
