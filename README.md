@@ -41,11 +41,8 @@ This project uses the following technologies:
    ```bash
    git clone https://github.com/ritoluki/omnifood.git
 2. Navigate to the project directory:
-
-Set up the database:
-```bash
-cd omnifood
-
+   ```bash
+   cd omnifood
 3. Start a local server:
 
 You can use a simple HTTP server to serve the files. For example, using Python's built-in HTTP server:
